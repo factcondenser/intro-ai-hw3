@@ -1,0 +1,9 @@
+% Running on host: Raven
+NannonGUI:  setBounds: width = 760, height = 472
+
+% This is the console of the Nannon GUI.
+% (Do a control-C here if the program appears to be hanging.)
+
+500,000 post burn-in games played so far.  Took 17 seconds.
+  Player X (Fact_Condenser) won 258,952 games (51.79%) and
+  Player O (mpan5's Hand-Coded Player) won 241,047 games (48.21%).
