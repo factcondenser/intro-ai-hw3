@@ -765,7 +765,7 @@ public class PlayingField extends Canvas implements MouseListener, MouseMotionLi
             yDimUpper = (8 * yDim) / 10,
             yDimLower = (2 * yDim) / 10,
             yScale    = yDimUpper - 2, // Leave a little border.
-            maxScoreUpper =  3000,     // Truncate if outside of ± this value.
+            maxScoreUpper =  3000,     // Truncate if outside of plus-or-minus this value.
             maxScoreLower = -3000 / 4; // Need to match this 4 and the 8/2 ratio above!
       /*
         for(int i = 0; i < playersSoFar; i++) if (player[i].exists(currentTime) && player[i].showScores)
